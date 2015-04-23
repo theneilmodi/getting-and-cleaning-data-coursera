@@ -1,9 +1,9 @@
 # getting-and-cleaning-data-coursera
 Course Project
 
-#UCI Har Dataset
+#Data Set - UCI Har Dataset
 
-The dataset was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The dataset used was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 More information : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
