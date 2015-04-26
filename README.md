@@ -1,5 +1,5 @@
 # getting-and-cleaning-data-coursera
-Course Project
+Coursera Project
 
 #Data Set - UCI Har Dataset
 
